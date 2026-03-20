@@ -18,8 +18,7 @@ install.packages(c("dplyr", "ggplot2", "patchwork", "readxl", "scales", "tibble"
 |---|---|
 | `MasterTBModel.R` | Main model — runs everything |
 | `config.csv` | All 117 model parameters (values, distributions, sources) |
-| `Supplementary files/S2. Screening decision tree...xlsx` | Decision tree initial conditions (Zenner et al. 2025) |
-| `output/` | Generated figures and CSVs |
+| `S2. Screening decision tree...xlsx` | Decision tree initial conditions (Zenner et al. 2025) |
 
 ## How to run
 
