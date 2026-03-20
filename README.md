@@ -50,13 +50,3 @@ Outputs are written to `output/` (PNG figures) and `output/csv/` (results tables
 | `output/ceac.png` | Cost-effectiveness acceptability curve |
 | `output/ce_plane.png` | Cost-effectiveness plane |
 
-## Efficient frontier (base case)
-
-| Strategy | Cost/person | Sequential ICER |
-|---|---|---|
-| No screening | £196 | Reference |
-| Cough+CXR (TB sx) | £202 | £1,179/QALY |
-| Symptom screen+CXR | £214 | £3,822/QALY |
-| Parallel Sx+QFT (Ultra) | £359 | £7,745/QALY |
-
-All frontier strategies cost-effective at NICE £25,000–£35,000/QALY threshold.
